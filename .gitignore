@@ -12,6 +12,8 @@
 /.next/
 /out/
 
+.utils
+
 # production
 /build
 
