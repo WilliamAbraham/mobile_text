@@ -12,8 +12,6 @@
 /.next/
 /out/
 
-.utils
-
 # production
 /build
 
@@ -30,3 +28,6 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+
+# Ignore the .utils directory
+/.utils/
